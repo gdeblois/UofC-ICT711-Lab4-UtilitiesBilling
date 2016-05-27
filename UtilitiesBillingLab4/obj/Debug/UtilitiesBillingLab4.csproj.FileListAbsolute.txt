@@ -1,0 +1,21 @@
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.exe.config
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.exe
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.pdb
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.csprojResolveAssemblyReference.cache
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.Form1.resources
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.Properties.Resources.resources
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.csproj.GenerateResource.Cache
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.exe
+E:\000-Files\Classes\ICT 711 Class\Day 08\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.pdb
+E:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.exe.config
+E:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.exe
+E:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.pdb
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.exe.config
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.exe
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.pdb
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.exe
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\bin\Debug\UtilitiesBillingLab4.pdb
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.csprojResolveAssemblyReference.cache
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.Form1.resources
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.Properties.Resources.resources
+F:\000-Files\Classes\ICT 711 Class\Labs\UtilitiesBillingLab4\UtilitiesBillingLab4\obj\Debug\UtilitiesBillingLab4.csproj.GenerateResource.Cache
